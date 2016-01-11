@@ -1,0 +1,68 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.estebanposada.medellinsites.tour1">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="330sp"
+            android:background="@drawable/tumuseoanti">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="30sp"
+                android:text="@string/turi1"
+                android:textSize="25sp"
+                android:textColor="@color/darkblue"
+                android:textStyle="bold"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/but1"
+                android:autoLink="web"
+                android:id="@+id/fbmus"
+                android:onClick="bfbtou1"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/but2"
+                android:autoLink="web"
+                android:id="@+id/wbmus"
+                android:onClick="bwbtou1"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sed1"
+                android:id="@+id/bmus"/>
+
+        </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/turi1info"
+            android:layout_marginTop="15sp"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="@color/darkblue"
+            android:textColorHighlight="@color/blue"
+            android:textStyle="bold"/>
+        <com.google.android.gms.maps.MapView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/mapView1"
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:layout_margin="15sp"/>
+    </LinearLayout>
+
+</ScrollView>

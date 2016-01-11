@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">MedellinSites</string>
+    <string name="action_settings">Settings</string>
+    <string name="main">Main Menu</string>
+
+    <string-array name="menu">
+        <item>Cinema</item>
+        <item>Theaters</item>
+        <item>Restaurants</item>
+        <item>Partys</item>
+        <item>Touristic Sites</item>
+    </string-array>
+    <string-array name="menu_s">
+        <item>This is cinemas</item>
+        <item>This is theaters</item>
+        <item>This is restaurants</item>
+        <item>This is partys</item>
+        <item>This is touristic Sites</item>
+    </string-array>
+    <string-array name="menucine">
+        <item>Procinal</item>
+        <item>RoyalFIlms</item>
+        <item>CineColombia</item>
+    </string-array>
+
+
+    <string name="item">Menu</string>
+    <string name="item2">Menu2</string>
+
+    <string name="but1">Facebook</string>
+    <string name="but2">Webpage</string>
+    <string name="but3">Programation</string>
+
+    <string name="cine1info">From our seats the movie looks better</string>
+    <string name="cine2info">Royal Films is a family company that started only with a theater in the heart of the city of Barranquilla,
+        but it was not enough to place a new entertainment; also become as a culture the hobby of Colombians; because of this, through
+        the years we have grown up expanding our horizons by building new cinemas and shopping centers, which has allowed us to project
+        into the future and have a presence in the top five Colombian film companies.</string>
+    <string name="cine3info">The most important distribution company in Colombia, with 46% participation in the national market distribution,
+        distribute to Colombia FOX and Warner as well as independent films that takes in the most important markets worldwide.</string>
+    <string name="sed1">Sede 1</string>
+    <string name="sed2">Sede 2</string>
+    <string name="sed3">Sede 3</string>
+    <string name="sed4">Sede 4</string>
+    <string name="back">Return</string>
+
+    <string name="titt1">Teatro Metropolitano</string>
+    <string name="titt2">Pequeño Teatro</string>
+    <string name="teat1info">You are welcome to the Metropolitan Theater where you willl find the best cultural events in Medellin</string>
+    <string name="teat2info">Pequeño Teatro is projected as a culturl space, a reference city open to all artistic practices and
+        a meeting point of the movement and the tradition of the performing arts of Medellin.</string>
+    <string name="teat3info">The Teatro Pablo Tobon Uribe is a theater of Medellin, Colombia, located on La Playa avenue.
+        It has been one of the most traditional scenario of the city, offers a varied programation throughout the year, it was
+        inaugurated on August 2, 1967, and has the best acoustics to offer for musical and theatrical performances.</string>
+
+    <string name="restaur1">El Rancherito</string>
+    <string name="restaur2">Mondongos</string>
+    <string name="restaur3">Frutos del Mar</string>
+    <string name="rest1info">The flavor of our menu retains the traditional recipes of her grandmother, flavors that are the result of the
+        mixture of ingredients that always have the best quality... are products selected very carefully every day.\t\n
+        In our kitchens the preparations are made every day and by employees who live in the areas surrounding each point ...
+        so we also get an ingredient in each preparation which is the affection, the taste and love with which everyone work. ..</string>
+    <string name="rest2info">\tTo speak of Mondongos is to talk of a whole culture and to refer, as an emblem and an institution,
+        to a Restaurant that receives hundreds of local and foreign patrons every day.\n\t
+        All this speciality that Mondongos puts together and that is a faithful tertimony of the valuer that transcend in our culture in
+        Antioquia, give more than one reason to the artists of our country an those who visit us, to have us as one of their sure destinations,
+        and, without exception, come to visit us on their stays in Medellín</string>
+    <string name="rest3info">THE TRUE TASTE OF THE SEA IN YOUR PALATE\t\n
+        FRUTOS DEL MAR is a line of restaurants specializing in seafood and Distribution of Fish and shellfish.</string>
+
+    <string name="rumba1">Tibiri Tabara</string>
+    <string name="rumba2">La Ruana de Juana</string>
+    <string name="rumba3">La Garganta</string>
+    <string name="rum1info">The Tibiri Bar is the best Afro Caribbean music of the city, there anyonecan be your dance partner between
+        discharges, son or guaguancos.
+        It is small, it is a basement and is hot like in a Caribbean island, but if you let yourself envolve by the atmosphere, the property
+        fraternity of our neighboorhoods, you will be agree with us, that there the happines make it self movement, music and sweat.</string>
+    <string name="rum2info">La Ruana de Juana excels for having a happy and fun decoration with an atmosphere of fonda unique in the city, where
+         you will find the best parties and the most beautiful women of Colombia.
+        Is the best club in the Lleras. We offer national and imported liquors at the best price in the sector.\n\n\t
+        Our motto "Pongaselo de Ruana" invites all it is costumers to enjoy the best nigth with excellent service.</string>
+    <string name="rum3info">La Garganta always innovating with the best crossover parties in La 33, no cover.</string>
+
+    <string name="turi1">Museo de Antioquia</string>
+    <string name="turi2">Jardín Botánico</string>
+    <string name="turi3">Cerro Nuti</string>
+    <string name="turi1info">Museo de Antioquia, where you will find all activities, programs and events that are developed inside
+        the institution, a description of permanent, temporary (current, future and past) exhibitions. Special guests, academics and
+        cultural meetings, interviews, profiles, among other productions.</string>
+    <string name="turi2info">The Medellin Botanical Garden Joaquín Antonio Uribe constitutes it self as one of the most beautiful and
+        important living museums of our country. It is considered a show for its visitors at any time of year. The Botanical Garden
+        is a place to relax and contemplate its enormous floral wealth, since it has the largest collection of orchids of the entire city,
+        also it houses more than 1,000 animals and plant species. It also has an auditorium, library, museums and a wide zone for food to
+        visitors.</string>
+    <string name="turi3info">It is one of the most important and famous hills of the city. It is billed as the largest natural park in
+        the urban area. On it there are three big turistic attractions of Medellin: The Pueblito Paisa, the outdoor theater "Carlos Vieco"
+        and Sculpture Park. It is meeting place for family outings, friends and tourists, particularly at weekends and in December. Its
+        footpaths are crowded, even by athletes amounting there every day.</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_cinemas">cinemas</string>
+    <string name="title_activity_theaters">theaters</string>
+    <string name="title_activity_restaurants">Restaurants</string>
+    <string name="title_activity_rparty">rparty</string>
+    <string name="title_activity_tours">tours</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

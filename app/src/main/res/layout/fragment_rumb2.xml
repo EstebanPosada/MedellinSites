@@ -1,0 +1,68 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.estebanposada.medellinsites.rumb2">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="330sp"
+            android:background="@drawable/ruana">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="30sp"
+                android:text="@string/rumba2"
+                android:textSize="25sp"
+                android:textColor="@color/darkblue"
+                android:textStyle="bold"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/but1"
+                android:autoLink="web"
+                android:id="@+id/fbju"
+                android:onClick="bfbru2"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/but2"
+                android:autoLink="web"
+                android:id="@+id/wbju"
+                android:onClick="bwbru2"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sed1"
+                android:id="@+id/bjuana"/>
+
+        </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/rum2info"
+            android:textSize="18sp"
+            android:layout_marginTop="15sp"
+            android:gravity="center"
+            android:textColor="@color/goldenrod"
+            android:textColorHighlight="@color/brown"
+            android:textStyle="bold"/>
+        <com.google.android.gms.maps.MapView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/mapViewru2"
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:layout_margin="15sp"/>
+    </LinearLayout>
+
+</ScrollView>
