@@ -196,6 +196,6 @@ public class cine1 extends Fragment {
         final FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
         frag_Menu menu = new frag_Menu();
         fragmentTransaction.add(android.R.id.content, menu);
-        Toast.makeText(getActivity(), "Detach", Toast.LENGTH_SHORT).show();
+        //Toast.makeText(getActivity(), "Detach", Toast.LENGTH_SHORT).show();
     }
 }

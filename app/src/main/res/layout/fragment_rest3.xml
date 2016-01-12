@@ -31,20 +31,13 @@
                 android:layout_height="wrap_content"
                 android:text="@string/but1"
                 android:autoLink="web"
-                android:id="@+id/fbfma"
-                android:onClick="bfbres3"/>
+                android:id="@+id/fbfma"/>
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/but2"
                 android:autoLink="web"
-                android:id="@+id/wbfma"
-                android:onClick="bwbre3"/>
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/sed1"
-                android:id="@+id/fma"/>
+                android:id="@+id/wbfma"/>
 
         </LinearLayout>
         <TextView
@@ -63,6 +56,11 @@
             android:layout_width="match_parent"
             android:layout_height="220dp"
             android:layout_margin="15sp"/>
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sed"
+            android:id="@+id/fma"/>
     </LinearLayout>
 
 </ScrollView>

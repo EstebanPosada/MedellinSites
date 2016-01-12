@@ -115,5 +115,15 @@ public class theater1 extends Fragment {
                         .newCameraPosition(cameraPosition));
             }
         });
+        view.findViewById(R.id.metpro).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent();
+                intent.setAction(Intent.ACTION_VIEW);
+                intent.addCategory(Intent.CATEGORY_BROWSABLE);
+                intent.setData(Uri.parse("http://www.teatrometropolitano.com/programacion.php"));
+                startActivity(intent);
+            }
+        });
     }
 }

@@ -29,7 +29,7 @@
 
     <string name="but1">Facebook</string>
     <string name="but2">Webpage</string>
-    <string name="but3">Programation</string>
+    <string name="but3">Programmation</string>
 
     <string name="cine1info">From our seats the movie looks better</string>
     <string name="cine2info">Royal Films is a family company that started only with a theater in the heart of the city of Barranquilla,
@@ -38,6 +38,7 @@
         into the future and have a presence in the top five Colombian film companies.</string>
     <string name="cine3info">The most important distribution company in Colombia, with 46% participation in the national market distribution,
         distribute to Colombia FOX and Warner as well as independent films that takes in the most important markets worldwide.</string>
+    <string name="sed">Sede</string>
     <string name="sed1">Sede 1</string>
     <string name="sed2">Sede 2</string>
     <string name="sed3">Sede 3</string>
@@ -46,11 +47,11 @@
 
     <string name="titt1">Teatro Metropolitano</string>
     <string name="titt2">Pequeño Teatro</string>
-    <string name="teat1info">You are welcome to the Metropolitan Theater where you willl find the best cultural events in Medellin</string>
-    <string name="teat2info">Pequeño Teatro is projected as a culturl space, a reference city open to all artistic practices and
+    <string name="teat1info">You are welcome to the Metropolitan Theater where you will find the best cultural events in Medellin</string>
+    <string name="teat2info">Pequeño Teatro is projected as a cultural space, a reference city open to all artistic practices and
         a meeting point of the movement and the tradition of the performing arts of Medellin.</string>
     <string name="teat3info">The Teatro Pablo Tobon Uribe is a theater of Medellin, Colombia, located on La Playa avenue.
-        It has been one of the most traditional scenario of the city, offers a varied programation throughout the year, it was
+        It has been one of the most traditional scenario of the city, offers a varied programmation throughout the year, it was
         inaugurated on August 2, 1967, and has the best acoustics to offer for musical and theatrical performances.</string>
 
     <string name="restaur1">El Rancherito</string>
@@ -62,7 +63,7 @@
         so we also get an ingredient in each preparation which is the affection, the taste and love with which everyone work. ..</string>
     <string name="rest2info">\tTo speak of Mondongos is to talk of a whole culture and to refer, as an emblem and an institution,
         to a Restaurant that receives hundreds of local and foreign patrons every day.\n\t
-        All this speciality that Mondongos puts together and that is a faithful tertimony of the valuer that transcend in our culture in
+        All this speciality that Mondongos puts together and that is a faithful testimony of the value that transcend in our culture in
         Antioquia, give more than one reason to the artists of our country an those who visit us, to have us as one of their sure destinations,
         and, without exception, come to visit us on their stays in Medellín</string>
     <string name="rest3info">THE TRUE TASTE OF THE SEA IN YOUR PALATE\t\n
@@ -71,10 +72,10 @@
     <string name="rumba1">Tibiri Tabara</string>
     <string name="rumba2">La Ruana de Juana</string>
     <string name="rumba3">La Garganta</string>
-    <string name="rum1info">The Tibiri Bar is the best Afro Caribbean music of the city, there anyonecan be your dance partner between
+    <string name="rum1info">The Tibiri Bar is the best Afro Caribbean music of the city, there anyone can be your dance partner between
         discharges, son or guaguancos.
-        It is small, it is a basement and is hot like in a Caribbean island, but if you let yourself envolve by the atmosphere, the property
-        fraternity of our neighboorhoods, you will be agree with us, that there the happines make it self movement, music and sweat.</string>
+        It is small, it is a basement and is hot like in a Caribbean island, but if you let yourself involve by the atmosphere, the property
+        fraternity of our neighborhoods, you will be agree with us, that there the happines make it self movement, music and sweat.</string>
     <string name="rum2info">La Ruana de Juana excels for having a happy and fun decoration with an atmosphere of fonda unique in the city, where
          you will find the best parties and the most beautiful women of Colombia.
         Is the best club in the Lleras. We offer national and imported liquors at the best price in the sector.\n\n\t
@@ -93,7 +94,7 @@
         also it houses more than 1,000 animals and plant species. It also has an auditorium, library, museums and a wide zone for food to
         visitors.</string>
     <string name="turi3info">It is one of the most important and famous hills of the city. It is billed as the largest natural park in
-        the urban area. On it there are three big turistic attractions of Medellin: The Pueblito Paisa, the outdoor theater "Carlos Vieco"
+        the urban area. Inside it there are three big turistic attractions of Medellin: The Pueblito Paisa, the outdoor theater "Carlos Vieco"
         and Sculpture Park. It is meeting place for family outings, friends and tourists, particularly at weekends and in December. Its
         footpaths are crowded, even by athletes amounting there every day.</string>
 

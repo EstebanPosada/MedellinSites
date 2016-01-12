@@ -31,19 +31,13 @@
                 android:layout_height="wrap_content"
                 android:text="@string/but1"
                 android:autoLink="web"
-                android:id="@+id/fbmond"
-                android:onClick="bfbres2"/>
+                android:id="@+id/fbmond"/>
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/but2"
                 android:autoLink="web"
-                android:id="@+id/wbmon"
-                android:onClick="bwbre2"/>
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/but3"/>
+                android:id="@+id/wbmon"/>
         </LinearLayout>
         <TextView
             android:layout_width="match_parent"

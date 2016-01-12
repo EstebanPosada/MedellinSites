@@ -34,24 +34,14 @@
                 android:layout_height="wrap_content"
                 android:text="@string/but1"
                 android:autoLink="web"
-                android:id="@+id/fbpeq"
-                android:onClick="bfbth2"/>
+                android:id="@+id/fbpeq"/>
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/but2"
                 android:autoLink="web"
-                android:id="@+id/wbpeq"
-                android:onClick="bwbth2"/>
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/but3"/>
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/sed3"
-                android:id="@+id/bpq"/>
+                android:id="@+id/wbpeq"/>
+
         </LinearLayout>
         <TextView
             android:layout_width="match_parent"
@@ -69,13 +59,12 @@
             android:layout_width="match_parent"
             android:layout_height="220dp"
             android:layout_margin="15sp"/>
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="200sp"
-            android:orientation="vertical"
-            android:id="@+id/prog">
-
-        </LinearLayout>
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sed"
+            android:id="@+id/bpq"/>
     </LinearLayout>
+
 
 </ScrollView>

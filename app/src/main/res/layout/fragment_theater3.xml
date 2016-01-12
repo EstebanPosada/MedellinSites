@@ -25,29 +25,19 @@
                 android:layout_height="wrap_content"
                 android:text="@string/but1"
                 android:autoLink="web"
-                android:id="@+id/fbptu"
-                android:onClick="bfbth3"/>
+                android:id="@+id/fbptu"/>
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/but2"
                 android:autoLink="web"
-                android:id="@+id/wbptu"
-                android:onClick="bwbth3"/>
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/but3"/>
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/sed3"
-                android:id="@+id/bptu"/>
+                android:id="@+id/wbptu"/>
+
         </LinearLayout>
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/teat2info"
+            android:text="@string/teat3info"
             android:layout_marginTop="15sp"
             android:textSize="25sp"
             android:gravity="center"
@@ -60,13 +50,11 @@
             android:layout_width="match_parent"
             android:layout_height="220dp"
             android:layout_margin="15sp"/>
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="200sp"
-            android:orientation="vertical"
-            android:id="@+id/prog">
-
-        </LinearLayout>
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sed"
+            android:id="@+id/bptu"/>
     </LinearLayout>
 
 </ScrollView>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MedellinSites</string>
+    <string name="action_settings">Settings</string>
+    <string name="main">Menu Principale</string>
+
+    <string-array name="menu">
+        <item>Cinema</item>
+        <item>Teatri</item>
+        <item>Ristoranti</item>
+        <item>Festi</item>
+        <item>Posti turistici</item>
+    </string-array>
+    <string-array name="menu_s">
+        <item>Questi sono cinemas</item>
+        <item>Questi sono teatri</item>
+        <item>Questi sono ristoranti</item>
+        <item>Questi sono Festi</item>
+        <item>Questi sono Posti turistici</item>
+    </string-array>
+    <string-array name="menucine">
+        <item>Procinal</item>
+        <item>RoyalFIlms</item>
+        <item>CineColombia</item>
+    </string-array>
+
+
+    <string name="item">Menu</string>
+    <string name="item2">Menu2</string>
+
+    <string name="but1">Facebook</string>
+    <string name="but2">Pagina Web</string>
+    <string name="but3">Programmazione</string>
+
+    <string name="cine1info">Dai nostri posti il film si guarda meglio</string>
+    <string name="cine2info">Royal Films è una famiglia che ha iniziato solo con un teatro nel cuore della città di Barranquilla,
+        ma non era abbastanza spazio per un nuovo divertimento; anche si è diventato come una cultura il hobby dei Colombiani; per questo, traversi gli anni
+        ha avuto una grande espansione nel orizzonte costruendo nuovi cinema e centri comerciali, i quali hanno permesso progettare nel futuro
+        e avere una presenza nel top cinque aziende di film Colombiani.</string>
+    <string name="cine3info">La più importante azienda di distribuzione in Colombia, col 46% di participazione nell mercato di distribuzione nazionale,
+        distribuisce a Colombia FOX e Warner come a film independenti che prende il più importante mercato mondiale.</string>
+    <string name="sed">Sede</string>
+    <string name="sed1">Sede 1</string>
+    <string name="sed2">Sede 2</string>
+    <string name="sed3">Sede 3</string>
+    <string name="sed4">Sede 4</string>
+    <string name="back">Ritornare</string>
+
+    <string name="titt1">Teatro Metropolitano</string>
+    <string name="titt2">Pequeño Teatro</string>
+    <string name="teat1info">Benvenuti al Teatro Metropolitano dove incontrerano i migliori eventi culturali a Medellín.</string>
+    <string name="teat2info">Pequeño Teatro è proiettato come uno spazio culturale, una città referimento aperta a tutti allenamenti artistici
+        e un punto d incontro del movimiento e la tradizione della recitazione artistica di Medellín.</string>
+    <string name="teat3info">Il Teatro Pablo Tobon Uribe è un teatro da Medellín, Colombia, ubicato a La Playa via.
+        È stato uno dei più tradizionale scenario della città, offre una diversa programmazione traverso l anno, inaugurato il 2 Agosto, 1967,
+        e ha i migliori acustichi per offrire per recitazione musicale e teatrale.</string>
+
+    <string name="restaur1">El Rancherito</string>
+    <string name="restaur2">Mondongos</string>
+    <string name="restaur3">Frutos del Mar</string>
+    <string name="rest1info">Il sapore del nostro menu conserva le ricette tradizionale della nonna, sapori che sono il risoltato della
+        mescolanza d ingredienti che sempre hanno la migliore qualità... sono prodoti selezionati attentamente tutti giorni.\t\n
+        Nei nostre cucine le preparazioni sono fatti tutti giorni e per impiegati che vivono in aree circostanti ogni posti...
+        sebbene noi anche prendiamo ogni ingrediente in ogni preparazione il quale è l afetto, il gusto e l amore con quale tutti lavorano...</string>
+    <string name="rest2info">\tParlare di Mondongos è parlare da una intera cultura e per riferirsi, come un emblema e una istituzione,
+        di un ristorance che riceve centi di locale e straniei avventori tutti giorni.\n\t
+        Tutti questi speciali che Mondongos mette insieme e che è fedele testimonianza del valore che trascende nella nostra cultura in Antioquia,
+        dare più di una ragione agli artisti del nostro paese e di queli che ci visitano, per averci come uno dei sicure destinazioni, e
+        senza eccezione, vengono a visitare a noi in la loro stanza a Medellín.</string>
+    <string name="rest3info">IL VERO GUSTO DEL MARE NEL NOSTRO PIATO\t\n
+        FRUTOS DEL MAR è una linea di ristoranti specializzati in cibo di mare e la distribuzione dei pesci e mulluschi.</string>
+
+    <string name="rumba1">Tibiri Tabara</string>
+    <string name="rumba2">La Ruana de Juana</string>
+    <string name="rumba3">La Garganta</string>
+    <string name="rum1info">Il Tibiri Bar è la migliore Afro caraibico musica della città, qui qualsiasi può essere il tuo compagno di ballo
+        tra fuoriuscita, son o guaguancos.
+        È piccolo, è un sotterraneo ed è caldo come in una isola Caraibica, ma se tu ti lasci coinvolgere dall atmosfera, la propria
+        confraternita dei nostri vicini, sarai d accordo con noi, che qui la felicità fa se stessa movimiento, musica e sudare.</string>
+    <string name="rum2info">La Ruana de Juana eccellere di avere una felice e divertente decorazione con una atmosfera di fonda unico nella città,
+        dove trovaresti le migliore festi e le pui belle donne in Colombia.
+        È il migliore club nel Lleras. Offriamo liquore nazionale e importato al migliore prezzo nel settore.\n\n\t
+        Il nostro motto "Pongaselo de Ruana" invita tutti costumisti godere la migliore notte con eccelente servizio.</string>
+    <string name="rum3info">La Garganta sempre innovando con le migliori festi crossover nella 33, senza cover.</string>
+
+    <string name="turi1">Museo de Antioquia</string>
+    <string name="turi2">Jardín Botánico</string>
+    <string name="turi3">Cerro Nuti</string>
+    <string name="turi1info">Museo de Antioquia, dove troveresti tutti attività, programmi ed eventi che sono sviluppato dentro la istituzione,
+        una descrzione di permanente, temporaneo (attuale, future e passato) esposizioni. Ospite speciali, riunione accademiche e culturali, interviste,
+         profile, tra altre produzioni.</string>
+    <string name="turi2info">Il Jardín Botánico di Medellin Joaquín Antonio Uribe costituisce se stesso come uno dei più bello e importante
+        museo vivente del nostro paese. È considerato uno spettacolo per i suoi visitatori a qualsiasi tempo dell anno. Il Jardín Botánico
+        è un luogo per la riposare e contemplare la sua enorme recchezza floreale, dal momento che ha la più grande collezione di orchidee di tutta la città,
+        anche ospita più di 1.000 specie animali e vegetali. Inoltre ha un auditorium, biblioteca, musei e una vasta area per il cibo per i visitatori.
+    </string>
+    <string name="turi3info">Si tratta di una delle colline più importanti e famosi della città. È classificato come il più grande parco naturale nell area urbana.
+        Al suo interno ci sono tre grandi attrazioni turistiche di Medellin: Il Pueblito Paisa, il teatro all aperto "Carlos Vieco" e il parco di Sculture
+        È  luogo di incontro per le gite in famiglia, gli amici e turisti, in particolare nei fine settimana e nel mese di dicembre. E sentieri sono affollate,
+        anche da atleti che ammontano ogni giorno.</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_cinemas">Cinemas</string>
+    <string name="title_activity_theaters">Teatri</string>
+    <string name="title_activity_restaurants">Ristoranti</string>
+    <string name="title_activity_rparty">Feste</string>
+    <string name="title_activity_tours">Gite</string>
+    <string name="title_activity_maps">Mappa</string>
+</resources>
